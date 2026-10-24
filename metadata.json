@@ -1,0 +1,6 @@
+{
+  "name": "ReviveIndustrial",
+  "description": "Marketplace for buying and selling factory scrap, metals, and industrial surplus across India with clear pricing, quality grading, and low-cost truck delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
